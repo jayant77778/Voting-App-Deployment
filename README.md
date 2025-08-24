@@ -1,10 +1,4 @@
-Perfect 🚀 You got it — a **killer README.md** with badges, a clean **flowchart diagram**, and everything polished so your repo shines 🌟
 
-Here’s the **professional version** 👇
-
----
-
-````markdown
 # 🗳️ Terraform Voting App Deployment
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
