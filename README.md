@@ -108,13 +108,7 @@ terraform destroy -auto-approve
 * ⚡ **AWS EC2** → Hosting containerized apps
 * 🔁 **IaC lifecycle** → init → plan → apply → destroy
 
----
 
-## 📸 Demo Screenshot
-
-*(Add screenshots of your app UI here — voting & results page)*
-
----
 
 ## 👨‍💻 Author
 
@@ -128,11 +122,3 @@ terraform destroy -auto-approve
 
 ---
 
-⚡ This README now has:
-- ✅ **Badges** (Terraform, AWS, Docker, EC2, License)  
-- ✅ **Mermaid Flowchart Diagram** (infra → app → services)  
-- ✅ **Professional formatting** with emojis  
-- ✅ **LinkedIn & GitHub buttons**  
-
-👉 Want me to also generate a **PNG Architecture Diagram** (like a cloud diagram with AWS icons + Docker logos) so you can add it under **📊 Architecture Flow** for extra professional vibes?
-```
